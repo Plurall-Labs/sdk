@@ -1,0 +1,26 @@
+{
+    "name": "plurall/sdk",
+    "description": "Plurall SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shiro",
+            "email": "carlos.shirasawa@somoseducacao.com.br"
+        },
+        {
+            "name": "Debs",
+            "email": "debora.donato@somoseducacao.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+		"require": {
+        "php": ">=7.0.0",
+				"ext-curl": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Plurall": "src/"
+        }
+    }
+}
