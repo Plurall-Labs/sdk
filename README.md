@@ -12,7 +12,7 @@ Software Developer Kit - PHP - Plurall
 # Install
 
 ```sh
-composer install plurall/sdk
+composer require plurall/sdk
 ```
 
 ---
