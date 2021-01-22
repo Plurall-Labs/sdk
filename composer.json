@@ -21,6 +21,9 @@
     "autoload": {
         "psr-0": {
             "Plurall": "src/"
+        },
+        "psr-4": {
+            "Plurall\\": "src/"
         }
     }
 }
