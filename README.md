@@ -32,7 +32,7 @@ These are all available environment variables:
 
 ```php
 <?php
-require_once('./src/Integration/ThirdParty.php');
+require_once('./vendor/autoload.php');
 
 use Plurall\Integration\ThirdParty;
 
